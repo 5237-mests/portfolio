@@ -53,7 +53,7 @@ const About = () => {
 
           <div className="mt-5 flex flex-col gap-3 text-slate-500">
             <p className="">
-              I've worked with all sorts of companies, leveling up my skills and
+              I've worked with some sorts of companies, leveling up my skills and
               teaming up with smart people. Here's the rundown:
             </p>
           </div>
@@ -65,13 +65,17 @@ const About = () => {
                   key={experience.company_name}
                   // className="vertical-timeline-element--work"
                   // contentArrowStyle={{ borderRight: "7px solid  rgb(33, 150, 243)" }}
-                  date={experience.date}
+                  date={
+                    <div className="px-5">
+                      {experience.date}
+                    </div>
+                  }
                   icon={
                     <div className="flex justify-center items-center w-full h-full">
                       <img
                         src={experience.icon}
                         alt={experience.company_name}
-                        className="w-[60%] h-[60%] object-contain"
+                        className="w-[100%] h-[100%] object-contain"
                       />
                     </div>
                   }

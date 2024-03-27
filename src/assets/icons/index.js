@@ -30,6 +30,9 @@ import calculator from './calculator.svg'
 import code from './code.svg'
 import crud from './crud.svg'
 import apple from './apple.svg'
+import mail from './mail.svg'
+import vawick from './vawick.png'
+import eep from './eep.png'
 
 export {
     css,
@@ -63,5 +66,8 @@ export {
     calculator,
     code,
     crud,
-    apple
+    apple,
+    mail,
+    vawick,
+    eep
 }
