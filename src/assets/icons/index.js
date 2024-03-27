@@ -26,6 +26,10 @@ import arrow from './arrow.svg'
 import contact from './contact.svg'
 import soundon from './soundon.png'
 import soundoff from './soundoff.png'
+import calculator from './calculator.svg'
+import code from './code.svg'
+import crud from './crud.svg'
+import apple from './apple.svg'
 
 export {
     css,
@@ -55,5 +59,9 @@ export {
     arrow,
     contact,
     soundon,
-    soundoff
+    soundoff,
+    calculator,
+    code,
+    crud,
+    apple
 }

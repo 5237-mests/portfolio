@@ -18,10 +18,15 @@ const About = () => {
         </h1>
 
         <div className="mt-5 flex flex-col gap-3 text-slate-500">
-          <p className="">
-            Software Engineer based in Ethiopia, specializing in web
-            development.
+          <p>
+            Driven by a passion for crafting seamless digital experiences, Mesfin Mulugeta is a seasoned Full Stack Developer with over three years of expertise in the Software Development Life Cycle (SDLC). Specializing in React Development and Typescript, Mesfin has a proven track record of designing and implementing single-page applications while enhancing cloud infrastructure for optimal performance.
           </p>
+
+          <p>
+            With a commitment to excellence and a strong foundation in both front-end and back-end technologies, Mesfin is eager to leverage his expertise in full stack development for new challenges and opportunities.
+          </p>
+
+
         </div>
 
         <div className="py-10 flex flex-col">

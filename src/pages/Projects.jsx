@@ -17,9 +17,8 @@ const Projects = () => {
 
         <div className="mt-5 flex flex-col gap-3 text-slate-500">
           <p>
-            I have embarked on numerous projects throughout the years, but these
-            are the ones I hold closest to my heart. Many of them are open
-            source, so if you like what you see, feel free to check them out.
+            I have developed several projects using different technologies
+            including:
           </p>
         </div>
 
@@ -48,6 +47,7 @@ const Projects = () => {
                     to={project.link}
                     rel="noopener noreferrer"
                     className="font-semibold text-blue-600"
+                    target="_blank"
                   >
                     Live Link
                   </Link>
