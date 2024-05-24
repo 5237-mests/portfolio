@@ -29,7 +29,8 @@ import {
   crud,
   apple,
   vawick,
-  eep
+  eep,
+  meetvid,
 } from "../assets/icons";
 
 export const skills = [
@@ -189,21 +190,29 @@ export const socialLinks = [
 ];
 
 export const projects = [
+  // {
+  //   iconUrl: pricewise,
+  //   theme: "btn-back-red",
+  //   name: "RawStuff B2B Website",
+  //   description:
+  //     "Created a B2B website for RawStuff, providing clients with a comprehensive overview of their business, products, and services.",
+  //   link: "https://rawstuff.deals/",
+  // },
+  // {
+  //   iconUrl: code,
+  //   theme: "btn-back-green",
+  //   name: "Vawick Consulting Website",
+  //   description:
+  //     'Created a website for Vawick Consulting, providing clients with a comprehensive overview of their company, services, and contact information.',
+  //   link: "https://vawick.com/",
+  // },
   {
-    iconUrl: pricewise,
-    theme: "btn-back-red",
-    name: "RawStuff B2B Website",
-    description:
-      "Created a B2B website for RawStuff, providing clients with a comprehensive overview of their business, products, and services.",
-    link: "https://rawstuff.deals/",
-  },
-  {
-    iconUrl: code,
+    iconUrl: meetvid,
     theme: "btn-back-green",
-    name: "Vawick Consulting Website",
+    name: "MEETVID",
     description:
-      'Created a website for Vawick Consulting, providing clients with a comprehensive overview of their company, services, and contact information.',
-    link: "https://vawick.com/",
+      "Developed online video web conference platform, allowing users to create and schedule online meetings. It also allows users to share their online meetings with other users.",
+    link: "https://zoom-clone-five-vert.vercel.app/",
   },
   {
     iconUrl: summiz,

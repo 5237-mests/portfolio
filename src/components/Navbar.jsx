@@ -25,7 +25,7 @@ const Navbar = () => {
           Projects
         </NavLink>
         <NavLink
-          to="https://drive.google.com/file/d/1Y05Dcc2t-OmSO0va1fwjL9DiJgW9N4FZ/view?usp=sharing"
+          to="https://drive.google.com/file/d/1qAoKeX6yEi3VGrPrIufkNlRgcIaivJld/view?usp=sharing"
           target="_blank"
           className={({ isActive }) => (isActive ? "text-blue-500 hvr" : "hvr")}
         >

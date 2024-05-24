@@ -1,0 +1,47 @@
+**Mesfin Mulugeta**
+*Ethiopia, Adama • +251931256054 • msfnmulgeta@gmail.com • [LinkedIn](linkedin.com/in/mesfin-mulgeta) • [Portfolio](https://www.mesfen.com/)*
+
+*Experienced Software Engineer | Full Stack Developer*
+
+Driven by a passion for crafting seamless digital experiences, Mesfin Mulugeta is a seasoned Full Stack Developer with over three years of expertise in the Software Development Life Cycle (SDLC). Specializing in React Development and Typescript, Mesfin has a proven track record of designing and implementing single-page applications while enhancing cloud infrastructure for optimal performance.
+
+**Work Experience:**
+- **Vawick Consulting (05/2023 - Present):** Full Stack Software Developer
+- **Ethiopian Electric Power (03/2021 - Present):** Full Stack Software Developer
+
+**Education:**
+- Certificate in Software Engineering, ALX Africa Kenya (02/2022 - 04/2023)
+- Certificate in FullStack Web Development (MERN), Evangadi Tech United States (03/2022 - 09/2022)
+- BSc in Electrical And Computer Engineering, Mizan Tepi University, Ethiopia (09/2014 - 12/2019)
+
+**Certifications:**
+- FullStack Web Development (MERN), Evangadi Tech (09/2023)
+- Software Engineering (Back-End), ALX (04/2023)
+
+**Key Achievements:**
+- Implemented React.js framework, enhancing application responsiveness by 40% and improving user experience.
+- Refactored 80% of the codebase, resulting in a 50% reduction in page load times.
+- Enhanced project infrastructure in the cloud platform, leading to a 30% cost reduction and improved system reliability.
+- Optimized database queries, improving report time by 500% and increasing team productivity.
+
+**Skills:**
+- Full Stack Development
+- ReactJS | Redux | TypeScript
+- Cloud Computing Architecture
+- JavaScript | Node.JS | Express.js
+- HTML | CSS | Bootstrap
+- Agile Software Development
+- Git | GitHub
+- MySQL | NoSQL | MongoDB
+- Python | Laravel
+- Mobile Application Development
+- Software Development Life Cycle (SDLC)
+- User Interface Design | Responsive Design
+- Teamwork | Time Management | Attention to Detail
+
+With a commitment to excellence and a strong foundation in both front-end and back-end technologies, Mesfin is eager to leverage his expertise in full stack development for new challenges and opportunities.
+
+**Contact:**
+- Email: [msfnmulgeta@gmail](mailto:msfnmulgeta@gmail)
+- LinkedIn: [linkedin.com/in/mesfin-mulgeta](https://www.linkedin.com/in/mesfin-mulgeta)
+- GitHub: [mesfen](https://github.com/mesfen)

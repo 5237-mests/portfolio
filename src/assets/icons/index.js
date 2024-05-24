@@ -33,6 +33,7 @@ import apple from './apple.svg'
 import mail from './mail.svg'
 import vawick from './vawick.png'
 import eep from './eep.png'
+import meetvid from './meetvid.svg'
 
 export {
     css,
@@ -69,5 +70,6 @@ export {
     apple,
     mail,
     vawick,
-    eep
+    eep,
+    meetvid,
 }
