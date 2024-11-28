@@ -31,6 +31,8 @@ import {
   vawick,
   eep,
   meetvid,
+  tma,
+  invento,
 } from "../assets/icons";
 
 export const skills = [
@@ -207,12 +209,28 @@ export const projects = [
   //   link: "https://vawick.com/",
   // },
   {
+    iconUrl: tma,
+    theme: "btn-back-blue",
+    name: "Eccomerce Telegram Mini App",
+    description:
+      "Developed telegram mini app for an e-commerce website, allowing users to search for products, view product details, and add products to their cart.",
+    link: "https://t.me/ecomminiapp_bot",
+  },
+  {
+    iconUrl: invento,
+    theme: "btn-back-red",
+    name: "Digital Inventory System",
+    description:
+      "Developed a web application that allows users to manage their inventory efficiently. It allows users to add, edit, and delete items from the inventory.",
+    link: "http://invento-three.vercel.app/",
+  },
+  {
     iconUrl: meetvid,
     theme: "btn-back-green",
     name: "MEETVID",
     description:
       "Developed online video web conference platform, allowing users to create and schedule online meetings. It also allows users to share their online meetings with other users.",
-    link: "https://zoom-clone-five-vert.vercel.app/",
+    link: "https://meetvid.vercel.app/",
   },
   {
     iconUrl: summiz,
@@ -223,27 +241,11 @@ export const projects = [
     link: "https://frontend-eep-oe.vercel.app/",
   },
   {
-    iconUrl: calculator,
-    theme: "btn-back-blue",
-    name: "Digital Calculator",
-    description:
-      "Developed a web application that allows users to perform basic arithmetic calculations, including addition, subtraction, multiplication, and division.",
-    link: "https://5237-mests.github.io/calculatoreact/",
-  },
-  {
     iconUrl: apple,
     theme: "btn-back-pink",
     name: "Apple clone",
     description:
       "Developed a web application for Apple clone, allowing users to search for Apple products, view product details, and add products to their cart.",
     link: "https://5237-mests.github.io/apple.com-replica-using-bootsrap/",
-  },
-  {
-    iconUrl: crud,
-    theme: "btn-back-black",
-    name: "Basic CRUD App",
-    description:
-      "Developed a web application that allows users to create, read, update, and delete data in a database. The app uses Next.js, Prisma, and PostgreSQL.",
-    link: "https://abe-garage-nextjs-prisma-app.vercel.app/",
   },
 ];
